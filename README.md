@@ -1,2 +1,7 @@
 # TrashGUI
-a Trash Plugin for PocketMine-MP which can trash your items
+Plugin pocketmine
+
+
+| View Count |
+| :---: |
+| [![View Count](http://hits.dwyl.io/ZzKino/TrashGUI.svg)](http://hits.dwyl.io/ZzKino/TrashGUI.svg) |
