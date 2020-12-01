@@ -5,5 +5,5 @@ main: altamash347\TrashGUI\Main
 
 commands:
   trash:
-    description: 'TrashInvMenu'
+    description: 'Open inventory trash'
     default: true
