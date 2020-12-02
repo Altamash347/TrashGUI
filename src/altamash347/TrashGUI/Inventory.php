@@ -1,8 +1,8 @@
 <?php
 
-namespace phuongaz\TrashGUI;
+namespace altamash347\TrashGUI;
 
-use phuongaz\TrashGUI\Main;
+use altamash347\TrashGUI\Main;
 use pocketmine\Server;
 use pocketmine\Player;
 use muqsit\invmenu\{InvMenu, InvMenuHandler};
