@@ -1,11 +1,11 @@
 <?php
 
-namespace phuongaz\TrashGUI;
+namespace altamash347\TrashGUI;
 
 use pocketmine\{Server, Player};
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\{Command, CommandSender};
-use phuongaz\TrashGUI\Inventory;
+use altamash347\TrashGUI\Inventory;
 use muqsit\invmenu\{InvMenu, InvMenuHandler};
 
 class Main extends PluginBase{
